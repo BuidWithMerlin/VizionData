@@ -46,3 +46,5 @@ VizionData está pensado para:
 
 ---
 
+[![WPA-GROUP](WPA-GP.png)](https://wpa-gp.com/)
+
