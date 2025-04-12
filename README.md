@@ -48,3 +48,6 @@ VizionData está pensado para:
 
 [![WPA-GROUP](WPA-GP.png)](https://wpa-gp.com/)
 
+
+![Texto alternativo](https://scontent.fpbc4-1.fna.fbcdn.net/v/t39.30808-6/481025607_9280553808657036_946421239098718790_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=DyqC09ivwaMQ7kNvwGw2CNv&_nc_oc=Adm2PpCL9Tv8qSvBFGl_AnWRU6Ex6OdFfh8WEyoteoOdJeK9Fep96SUXl1N1heN7Fb3OrUwXxd3diWAGs9uhsI_d&_nc_zt=23&_nc_ht=scontent.fpbc4-1.fna&_nc_gid=i2MA1knBf0C49uhfcygDNQ&oh=00_AfHXXVa7-ogtqkyHQS-H6xDKCU0pfPes2B3F5E9_sdESWw&oe=67FF928A)
+
